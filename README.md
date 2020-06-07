@@ -10,7 +10,7 @@ This is not a DialogFlow tutorial but rather an effort to build an intelligent C
 
 1.1 After creating the agents with indents click on the settings and hover to "Google Project" section and click on "service account"
 
-(service account)
+![image](https://github.com/glasscannon21/WhatsApp-ChatBot/blob/master/images/1.png)
 
 1.2 You'll be redirected to "Service Accounts" section of "Google Cloud Platform". Click on "Create service account" on the top of tha page and type in any name and description and click on "Create" button.
 
